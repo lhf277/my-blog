@@ -33,7 +33,7 @@ date: 2025-08-09 22:40:34
 
 如上文所说，这是本站的第N个版本，也许会发一些生活日常，或者偏技术一点的东西。
 
-本站由 [@Yukina](http://blog.yukina.ink/) 创建，使用 [Stellaris](https://github.com/chiyuki0325/hexo-theme-stellaris) 作为主题，您可以在 https://github.com/chiyuki0325/blog 找到本站源码。
+本站由 [@Yukina](http://blog.yukina.ink/) 创建，使用 [Stellaris](https://github.com/chiyuki0325/hexo-theme-stellaris) 作为主题，您可以在 [GitHub](https://github.com/lhf277/my-blog) 找到本站源码。
 
 由 [Hexo](https://hexo.io/) 强力驱动
 
