@@ -1,6 +1,7 @@
 ---
 title: hitorie 与他十余年的历史——离去，与新生
 date: 2025-08-12 15:52:56
+updated: 2025-08-12 15:52:56
 tags: [杂谈, Hitorie, wowaka, J-Rock, 音乐, VOCALOID]
 category: 杂谈
 description: "听到 hitorie 十周年的纪念专辑，使我想起我与他们的第一次相遇，也让我欲去回顾这支乐队的十余年历程——从原主唱 wowaka 的创立，到 wowaka 离世后仍然走下去。"

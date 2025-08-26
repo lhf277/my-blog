@@ -1,6 +1,7 @@
 ---
 title: Hello, World!
 date: 2025-08-10 05:00:00
+updated: 2025-08-10 05:00:00
 tags:
 - first page
 category: 日常

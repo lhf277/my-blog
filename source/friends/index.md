@@ -15,7 +15,7 @@ URL：`https://blog.yukina.ink/`
 图像：`https://www.yukina.ink/logo.avif`
 简介：`Welcome to the melty land.`
 
-请同样按照以上格式将您站点的信息发送至 [Telegram](https://t.me/npl8sezFwTyzqehtWcVou3qBb)
+[在 GitHub 编辑此页面](https://github.com/lhf277/my-blog/blob/main/source/_data/links.yml) ，然后向我发送 Pull Request。
 p.s: 本站不允许黄赌毒政以及各类违反中华人民共和国现行法规的站点申请友情链接。
 
 {%endfolding%}
