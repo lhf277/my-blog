@@ -17,9 +17,9 @@ description: "因为不想回到原学校，于是选择了一条下限非常低
 
 虽说这条路下限低，但如果没有任何的成绩，也是无法考上任何稍好的高职院校，于是，我动身前往了郑州的单招培训机构。
 
-{%image https://blog.yukina.ink/images/posts/student-id.avif 天一教育学生证 %image}
+{%image https://blog.yukina.ink/images/posts/student-id.avif 天一教育学生证 %}
 
-{%image https://blog.yukina.ink/images/posts/textbook.avif 机构所发课本 %image}
+{%image https://blog.yukina.ink/images/posts/textbook.avif 机构所发课本 %}
 
 授课内容非常基础，对我来说，算是靠着这根拐棍重新站了起来，让我拥有了得以喘息的空间，得以调整自己，可以重新思考在未来的日子里，该走上何种道路。
 
