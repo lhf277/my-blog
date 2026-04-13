@@ -4,18 +4,19 @@
     url: https://blog.chyk.ink/
     avatar: https://blog.yukina.ink/images/yidaozhan-ico.avif
     screenshot: https://blog.yukina.ink/images/yidaozhan.avif
+  - title: "MBRjun-Blog"
+    description: "我们生活在大地上，但我们的梦想超越天空"
+    url: https://www.libmbr.com/
+    avatar: https://blog.yukina.ink/images/mbr-ico.avif
+    screenshot: https://blog.yukina.ink/images/mbr-blog.avif
   - title: "日落果的 Blog"
     description: "你好👋，欢迎来到日落果的 Blog"
-    url: https://blog.akana.moe/
+    url: https://blog.archlinux.tech/
     avatar: https://blog.yukina.ink/images/purofle.avif
     screenshot: https://blog.yukina.ink/images/purofle-blog.avif
-  - title: "SkyHigh"
-    description: "Skye~"
-    url: https://skyhigh.moe/
-    avatar: https://blog.yukina.ink/images/avatar-0.avif
-    screenshot: https://blog.yukina.ink/images/thumbnail.for.blog.yukina.ink.avif
-  - title: "夏鸢的波子汽水店"
-    description: "直视平庸，保持谦逊"
-    url: https://owo.today/
-    avatar: https://blog.yukina.ink/images/xiayuan.avif
-    screenshot: https://blog.yukina.ink/images/xiayuan-blog.avif
+  - title: "老史尬侃"
+    description: "这家伙叽里咕噜说什么呢"
+    url: https://blog.stevezmt.top/
+    avatar: https://blog.yukina.ink/images/stevezmt.avif
+    screenshot: https://blog.yukina.ink/images/stevezmt-blog.avif
+    
